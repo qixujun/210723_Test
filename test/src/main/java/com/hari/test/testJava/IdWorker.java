@@ -2,7 +2,7 @@ package com.hari.test.testJava;
 
 /**
  * @author admin
- * @Description
+ * @Description 雪花算法
  * @create 2021-07-09
  */
 public class IdWorker {

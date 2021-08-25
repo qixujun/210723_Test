@@ -1,3 +1,5 @@
+#王哥的多线程方法
+
 if(entities.size() > MAX_SIZE){
     boolean state = true;
     List<List<T>> lists = splitCollection(entities, MAX_THREAD);

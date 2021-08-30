@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 09 14:55:44 CST 2021
+http\://maven.aliyun.com/nexus/content/groups/public/.error=Could not transfer artifact com.aliyun\:asapi\:jar\:0.0.3-RELEASE from/to alimaven (http\://maven.aliyun.com/nexus/content/groups/public/)\: Transfer failed for http\://maven.aliyun.com/nexus/content/groups/public/com/aliyun/asapi/0.0.3-RELEASE/asapi-0.0.3-RELEASE.jar
+@default-alimaven-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1617951344679
